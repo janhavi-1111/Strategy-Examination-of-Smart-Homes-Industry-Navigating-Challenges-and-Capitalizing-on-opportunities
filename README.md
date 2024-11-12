@@ -8,9 +8,9 @@ This project analyzes the smart home industry’s strategic landscape, examining
 
 **Introduction:** Overview of the smart home market and trends in AI and IoT.
 
-**Literature Review: **Summary of research on smart home technologies.
+**Literature Review:** Summary of research on smart home technologies.
 
-**Strategic Analysis: **Application of Porter’s Five Forces, VRIO, and Generic Strategies to key companies.
+**Strategic Analysis:** Application of Porter’s Five Forces, VRIO, and Generic Strategies to key companies.
 
 **Industry Case Study:** Competitor analysis and market dynamics.
 
